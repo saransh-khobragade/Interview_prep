@@ -1,0 +1,10 @@
+1.	https://www.geeksforgeeks.org/array-rotation/
+2.	https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/
+3.	https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
+4.	https://www.geeksforgeeks.org/rearrange-array-arri/
+5.	https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
+6.	https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/
+7.	https://www.geeksforgeeks.org/minimum-swaps-required-bring-elements-less-equal-k-together/
+8.	https://www.geeksforgeeks.org/rearrange-array-order-smallest-largest-2nd-smallest-2nd-largest/
+9.	https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
+10.	https://www.geeksforgeeks.org/replace-every-array-element-by-multiplication-of-previous-and-next/
