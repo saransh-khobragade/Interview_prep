@@ -1,0 +1,10 @@
+1.  https://www.geeksforgeeks.org/removing-punctuations-given-string/
+2.  https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/
+3.  https://www.geeksforgeeks.org/python-check-substring-present-given-string/
+4.  https://www.geeksforgeeks.org/calculate-sum-of-all-numbers-present-in-a-string/
+5.  https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/
+6.  https://www.geeksforgeeks.org/second-repeated-word-sequence-python/
+7.  https://www.geeksforgeeks.org/calculate-sum-of-all-numbers-present-in-a-string/
+8.  https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/
+9.  https://www.geeksforgeeks.org/program-find-smallest-largest-word-string/
+10. https://www.geeksforgeeks.org/recursive-solution-count-substrings-first-last-characters/

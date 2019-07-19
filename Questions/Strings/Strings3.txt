@@ -1,0 +1,10 @@
+1.  https://www.geeksforgeeks.org/count-characters-string-distance-english-alphabets/
+2.  https://www.geeksforgeeks.org/longest-subsequence-where-every-character-appears-at-least-k-times/
+3.  https://www.geeksforgeeks.org/number-subsequences-ab-string-repeated-k-times/
+4.  https://www.geeksforgeeks.org/count-distinct-occurrences-as-a-subsequence/
+5.  https://www.geeksforgeeks.org/print-words-string-reverse-order/
+6.  https://www.geeksforgeeks.org/reverse-string-without-using-any-temporary-variable/
+7.  https://www.geeksforgeeks.org/maximum-consecutive-repeating-character-string/
+8.  https://www.geeksforgeeks.org/print-characters-frequencies-order-occurrence/
+9.  https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+10. https://www.geeksforgeeks.org/check-characters-given-string-can-rearranged-form-palindrome/

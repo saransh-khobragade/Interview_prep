@@ -1,0 +1,10 @@
+1.  https://www.geeksforgeeks.org/recursive-function-check-string-palindrome/
+2.  https://www.geeksforgeeks.org/convert-string-binary-sequence/
+3.  https://www.geeksforgeeks.org/identify-mark-unmatched-parenthesis-expression/
+4.  https://www.geeksforgeeks.org/find-maximum-depth-nested-parenthesis-string/
+5.  https://www.geeksforgeeks.org/program-credit-card-number-validation/
+6.  https://www.geeksforgeeks.org/maximum-number-characters-two-character-string/
+7.  https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+8.  https://www.geeksforgeeks.org/minimum-number-deletions-make-string-palindrome/
+9.  https://www.geeksforgeeks.org/count-palindromic-subsequence-given-string/
+10. https://www.geeksforgeeks.org/find-first-repeated-word-string/
