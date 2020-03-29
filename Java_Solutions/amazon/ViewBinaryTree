@@ -1,0 +1,29 @@
+//top view of binary tree
+
+class Tree {
+  int value;
+  Tree left;
+  Tree right;
+}
+
+public class ViewBinaryTree {
+
+	static void topView(Binary root) {
+		if (root != null) {
+			mirror(root.left);
+			mirror(root.right);
+			Binary temp = root.left;
+			root.left = root.right;
+			root.right = temp;
+		}
+	}
+
+	public static void main(String[] args) {
+		Binary root = new Binary(1);
+		root.left = new Binary(2);
+		root.right = new Binary(3);
+		root.right.left = new Binary(4);
+		root.left.left = new Binary(5);
+		mirror(root);
+  }
+}

@@ -27,9 +27,12 @@ public class Array5{
     static void reverse(int[] arr){
       int n = arr.length;
       int[] a = new int[n];
+      //reverse using new array
       for(int i = n-1; i >= 0; i--){
           a[i] = arr[n-1-i];
       }
+
+      // reversing the input array
       int temp;
       for(int i = 0; i < n/2; i++){
           temp = arr[i];

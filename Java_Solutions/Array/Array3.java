@@ -15,6 +15,14 @@ public class Array3{
       return i+1;
   }
 
+  static int findRotationByHighLowMethod(int[] arr) {
+      int l = 0, h = arr.length - 1;
+      while(arr[l] >= arr[h] && l < h) {
+        l++;
+      }
+      return l;
+  }
+
     public static void main(String args[]){
       Scanner sc = new Scanner(System.in);
       System.out.println("Enter size of array");
@@ -24,7 +32,7 @@ public class Array3{
       for (int i = 0; i < size; i++) {
         arr[i] = sc.nextInt();
       }
-      int rotates = findRotate(arr);
+      int rotates = findRotationByHighLowMethod(arr);
       System.out.println("Array rotated "+rotates+" times");
       sc.close();
 

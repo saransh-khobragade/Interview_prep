@@ -64,6 +64,7 @@ public class Array8 {
             arr[i] = sc.nextInt();
         }
         quickSort(arr, 0, size-1);
+        printArray(arr);
         reArrangeArray(arr);
         sc.close();
     }
