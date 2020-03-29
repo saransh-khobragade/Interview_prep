@@ -32,16 +32,34 @@ public class ViewBinaryTree {
 		}
 	}
 
+  static void rightView(Tree root, int level) {
+    if (root != null) {
+      if(!lookup.containsKey(level)){
+          lookup.put(level, root.value);
+      }
+      rightView(root.right, level+1);
+      rightView(root.left, level+1);
+    }
+  }
 
+  static void bottomView(Tree root, int level) {
+    if (root != null) {
+      bottomView(root.right, level-1);
+      bottomView(root.left, level+1);
+      if(!lookup.containsKey(level)){
+          lookup.put(level, root.value);
+      }
+    }
+  }
 
 	public static void main(String[] args) {
 		Tree root = new Tree(1);
 		root.left = new Tree(2);
 		root.right = new Tree(3);
-		root.right.left = new Tree(4);
-		// root.left.right = new Tree(5);
+		root.right.right = new Tree(4);
+		root.left.left = new Tree(5);
     if(root != null) {
-		  leftView(root, 0);
+		  bottomView(root, 0);
     }
     for(Integer e : lookup.keySet())
 			System.out.println(lookup.get(e));
